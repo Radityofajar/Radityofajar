@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/Radityofajar/Radityofajar/blob/main/waving.gif">, I'm Radityo Fajar</h1>
-<h4 align="center">an engineering students at Kookmin University, this is my <a href="https://github.com/Radityofajar/Radityofajar/blob/main/Resume_RadityoFajarPamungkas.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">an engineering students at Kookmin University, this is my <a href="https://github.com/Radityofajar/Radityofajar/blob/main/Resume_RadityoFajarPamungkas_Update.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
